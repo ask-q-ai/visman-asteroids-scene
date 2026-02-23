@@ -1,0 +1,15 @@
+{
+  "id": "asteroids-scene",
+  "name": "Asteroids Scene",
+  "description": "Exported from embedded Flutter VisMan demo scene \"asteroids-scene\".",
+  "tags": [
+    "asteroids",
+    "scene"
+  ],
+  "source": "flutter-embedded-demo",
+  "generatedAt": "2026-02-23T08:11:45.557246Z",
+  "sceneFile": "visman.json",
+  "objectCount": 9,
+  "hasPhysics": true,
+  "has3D": false
+}
